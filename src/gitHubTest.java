@@ -7,5 +7,9 @@ public class gitHubTest {
 		for(int i=0;i<10;i++) {
 			System.out.println("WoW! ");
 		}
+		
+		for(int i=0;i<12;i++) {
+			System.out.println(i);
+		}
 	}
 }
